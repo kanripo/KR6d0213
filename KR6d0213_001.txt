@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:51:45.354781
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 16:40
 #+TITLE: 普賢菩薩發願文
 #+PROPERTY: CBETA_ID X55n0914
 #+PROPERTY: ID KR6d0213
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 55, No. 914
 #+PROPERTY: VOL 55
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6d0213_X_001-0689c> 
 #+PROPERTY: JUAN 1
-No.914¶
-
- 普賢菩薩發願文¶
+No. 914¶
+普賢菩薩發願文¶
 天台　智者大師　撰¶
 
 稽首十方三世一切諸佛。願當證知某甲。諸佛所有¶
@@ -41,5 +40,5 @@ No.914¶
 惡道苦。具足普賢菩薩行願。我又以此善根迴向無¶
 上菩提。不求世間二乘果報。我又以此善根迴向真¶
 如法界海。真如無滅。無漏無為。不可破壞。願我善根¶
-亦復如是。如三世諸佛迴向。我亦如是迴向。迴向已¶
+亦復如是。如三世諸佛迴向。我亦如是迴向。迴向巳¶
 歸命禮三寶。
